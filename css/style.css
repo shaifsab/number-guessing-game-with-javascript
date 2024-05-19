@@ -16,7 +16,8 @@ body {
     align-items: center;
     gap: 120px;
     min-height: 100vh;
-    background: url(/assets/background-img.jpg);
+/*     background: url(/assets/background-img.jpg); */
+    background: #A34343;
     color: #fff;
 
 }
